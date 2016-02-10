@@ -1,0 +1,99 @@
+.btn-black{
+  background-color: black;
+  color: white;
+}
+#bquate_social_index .fa {
+  font-size: 30px;
+  margin-left: 3px;
+}
+#bquate_social_index .fa:hover, #bquate_social .fa:focus {color:#fff !important}
+
+#bquate_social_index .fa.fa-deezer {
+  background-image: url("../../assets/images/deezer-icon.png");
+  background-position: center 3px;
+  background-repeat: no-repeat;
+  background-size: 25px 30px;
+  height: 30px;
+  width: 30px;
+}
+#bquate_social_index .fa.fa-deezer:hover,#bquate_social_index .fa.fa-deezer:focus {
+  background-image: url("../../assets/images/deezer-icon-hover.png");}
+
+#container{
+    opacity:0.7!important;
+}
+.boton_plan{
+	/*padding: 10px 10px!important;
+	vertical-align: middle;
+	text-align: center;*/
+	white-space: normal;
+}
+.btn-complete-darker{
+	background-color: #6D5CAE;
+	border: 0px;
+	color: white;
+}
+.header .menu > li > a {
+	text-transform: none!important;
+}
+.owl-prev, .owl-next {
+    position: absolute;
+    top: 50%;
+    margin-top: -20px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    background-color: #fff;
+    font-size: 36px;
+    border-radius: 50px;
+    opacity: 0.4;
+}
+.owl-next {
+    right: 0px;
+}
+.owl-controls {
+    text-align: center;
+}
+.owl-controls .owl-page {
+    display: inline-block;
+}
+.owl-controls .owl-page span {
+    background-color: #333;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    display: block;
+    height: 12px;
+    margin: 5px 7px;
+    width: 12px;
+}
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+#modalVideo .modal .modal-content{
+	border: 0px!important;
+}
+#modalVideo .modal-content{
+	background-color: transparent!important;
+	border: 0px!important;
+}
+#modalVideo .modal-header button{
+	color: white!important;
+	opacity: 1!important;
+}
+
+#modalVideo .videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+#modalVideo .videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}

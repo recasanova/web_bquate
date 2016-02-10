@@ -1,0 +1,260 @@
+#bquatesocial .fa {
+    font-size: 25px;
+    margin-left: 20px;
+}
+#bquatesocial a{
+	color: white!important;
+}
+#bquatesocial .fa:hover{
+	color:#10CFBD!important;
+}
+/*#bquate_social .fa-facebook-square{
+	color: #005ce6;
+}
+#bquate_social .fa-twitter{
+	color: #1ac6ff;
+}
+#bquate_social .fa-instagram{
+	color: #86592d;
+}
+#bquate_social .fa-spotify{
+	color: #00b33c;
+}*/
+.dark_theme .show{
+	background-color: #262626;
+}
+
+.lh-45{
+	line-height: 45px;
+}
+
+.show .ui-direccion{
+	
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	padding: 20px 10px!important;
+}
+
+.show .ui-fecha{
+	display: inline-block;
+	padding: 20px 10px;
+}
+
+.tickets{
+	display: inline-block;
+	padding: 20px 0px;
+}
+@media(max-width: 1190px){
+  .ui-fecha , .ui-venta , .ui-direccion{
+    width: 100%!important;
+    text-align: center;
+    vertical-align: middle;
+  }
+  .ui-fecha h2 , .ui-direccion{
+  	padding-bottom: 0px;
+  }
+
+}
+@media only screen and (min-width:670px) and (max-width: 1190px)  {
+	.ui-direccion{
+		border-top: 1px solid black;
+		border-bottom: 1px solid black;
+		border-left: 0px!important;
+		border-right: 0px!important;
+	}
+}
+
+@media(max-width: 670px){
+ .ui-fecha{
+ 	width:25%!important;
+ }
+ .ui-direccion{
+ 	width: 50%!important;
+ 	border-left: 1px solid black;
+	border-right: 1px solid black;
+ }
+ .ui-venta{
+ 	width: 20%!important;
+ }
+ .ui-fecha h2 , .ui-direccion{
+ 	padding-bottom: 20px;
+ }
+}
+
+@media(max-width: 410px){
+  .ui-fecha , .ui-venta , .ui-direccion{
+    width: 100%!important;
+    text-align: center;
+  }
+  .ui-direccion{
+		border-top: 1px solid black;
+		border-bottom: 1px solid black;
+		border-left: 0px!important;
+		border-right: 0px!important;
+	}
+
+
+}
+.fs-20{
+	font-size: 20px;
+}
+
+.text-justify{
+	text-align: justify;
+}
+
+.album .song_list li {
+	list-style: none;
+	margin: 0;
+}
+.album .song_list li hr{
+	margin: 5px 0px;
+	border-top: 1px solid #404040;
+}
+.album .song_list .selected{
+	border-top: 1px solid #ED1164;
+}
+.other_albums div{
+	padding: 10px;
+}
+#hide_albums{
+	display: none;
+}
+#all_albums{
+	display: none;
+}
+.absolute{
+	position: absolute;
+}
+#btn_morephotos{
+
+	top:150px;
+}
+
+
+
+#owl-demo-foto .item{
+  margin: 3px;
+}
+#owl-demo-foto .item img{
+  /*display: block;*/
+  width: 100%;
+  height: auto;
+}
+
+#owl-demo-clips .item{
+  margin: 10px;
+}
+#owl-demo-clips .item img{
+  /*display: block;*/
+  width: 100%;
+  height: auto;
+}
+
+/* CSS DE CLIP DE PRENSA */
+
+.clips_contenedor
+{
+	/*width: 400px;*/
+    height: 300px;
+    position:relative;
+    float: left;
+}
+
+.clips_imagen
+{    
+    position:absolute;
+    left:0;
+    top:0;
+
+}
+.clips_texto
+{
+    z-index:100;
+    position:absolute;    
+    color:white;
+    font-size:24px;
+    font-weight:bold;
+    bottom: -20px;
+    left:90px;
+    top:250px;
+}
+.header.minimized .alt {
+    width: 100px !important;
+        -o-transition:.2s;
+  -ms-transition:.2s;
+  -moz-transition:.2s;
+  -webkit-transition:.2s;
+  /* ...and now for the proper property */
+  transition:.2s;
+
+}
+.btn-success-darker{
+	background-color: #0DAD9E;
+	border-color: #0DAD9E;
+	color: white!important;
+}
+.btn-success-darker:hover{
+	background-color: white;
+	border-color: white;
+	color: #0DAD9E;
+}
+a{
+	color: #10CFBD;
+}
+
+.dark_theme section{
+	background-color: #121212;
+
+}
+.dark_theme h3,
+.dark_theme h2,
+.dark_theme span,
+.dark_theme ul,
+.dark_theme p,
+.dark_theme h4,
+.dark_theme li,
+.dark_theme h5{
+	color: white;
+}
+.dark_theme .direccion{
+	color: #626262;
+}
+.dark_theme #show_albums span,
+.dark_theme .ver_todos,
+.dark_theme #hide_albums span{
+	color: #10cfbd;
+}
+
+.light_theme section{
+	background-color: #ffffff;
+}
+.light_theme h3,
+.light_theme h2,
+.light_theme span,
+.light_theme ul,
+.light_theme p,
+.light_theme h4,
+.light_theme li,
+.light_theme h5{
+	color: black;
+}
+.light_theme .show{
+	background-color: #d9d9d9;
+}
+.light_theme .direccion{
+	color: #626262;
+}
+.light_theme #show_albums span,
+.light_theme .ver_todos,
+.light_theme #hide_albums span{
+	color: white;
+}
+
+/*ARREGLAR ESTE RESPONSIVE */
+@media only screen and (min-width:793px) and (max-width: 960px)  {
+	.album .song_list li{
+		text-align: center;
+		font-size:18;
+	}
+}

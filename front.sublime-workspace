@@ -1,0 +1,857 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"login",
+				"login-img-bg"
+			],
+			[
+				"dar",
+				"blue-dark"
+			],
+			[
+				"gra",
+				"gray-light"
+			],
+			[
+				"gray",
+				"gray-dark"
+			],
+			[
+				"blue",
+				"blue-dark"
+			],
+			[
+				"grey",
+				"grey-light"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"wid",
+				"widget-title"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"script",
+				"JavaScript"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"Co",
+				"color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"mega",
+				"mega-dropdown-menu"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"co",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "new-front/pages/css/pages.css",
+			"settings":
+			{
+				"buffer_size": 201649,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "new-front/planes.html",
+			"settings":
+			{
+				"buffer_size": 27572,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "new-front/terminos.html",
+			"settings":
+			{
+				"buffer_size": 25536,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "new-front/soporte.html",
+			"settings":
+			{
+				"buffer_size": 28362,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "new-front/recursos.html",
+			"settings":
+			{
+				"buffer_size": 16932,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "new-front/nosotros.html",
+			"settings":
+			{
+				"buffer_size": 33092,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "new-front/monetiza.html",
+			"settings":
+			{
+				"buffer_size": 25557,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "new-front/index.html",
+			"settings":
+			{
+				"buffer_size": 58867,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sebastianosses/Dropbox (Personal)/a-Bquate/a-entregas/new-front/index.html",
+		"/Users/sebastianosses/Desktop/index.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/a-entregas/new-front/contacto.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/a-entregas/new-front/acercade.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/a-entregas/new-front/contact.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/a-entregas/new-front/pages/css/pages.css",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/a-entregas/new-front/index.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/a-entregas/new-front/monetiza.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/a-entregas/new-front/planes.html",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/pps/siniestros/_siniestros_payments.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/pps/clientes/_cliente_polizas_list.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/locales/es.yml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/pps/siniestros/_siniestros_docs.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/pps/siniestros/siniestro.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/pps/siniestros/_siniestros_info.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/pps/siniestros/_siniestros_modal.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/pps/clientes/cliente.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/pps/clientes/_clientes_modal.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/pps/clientes/index.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/pps/polizas/_poliza_advanced.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/pps/polizas/_polizas_modal.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/_header.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/pps/polizas/auto.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/pps/_eecc_cliente_list.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/pps/_cartera_modal.haml",
+		"/Users/sebastianosses/Desktop/_polizas_modal.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/pps/tramites/index.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/index.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/pps/index.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/_login_modal.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/pps/eecc.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/login.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/_footer.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/stylesheets/all.css.scss",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/z-bquate-back-original/demo/form_elements.html",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/tramites/inbox.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/noticias/single.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/noticias/entrevistas.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/tramites/cartera.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/noticias/index.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/noticias/_header.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/styleguide/colors.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/javascripts/plugins/flot/jquery.flot.js",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/javascripts/plugins/flot/excanvas.min.js",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/styleguide/buttons.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/noticias/noticias.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/noticias.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/siniestros.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/layouts/layout.haml",
+		"/Users/sebastianosses/repos/pacifico-ptc/pacifico-ptc/source/cartera.haml",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/botones.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/colores.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/formularios.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/manuales.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/tablas.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/tipografias.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/columnas.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/somoscorredores.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/index.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/cartera.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/css/styles.css",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-pacífico seguros/ux portal corredores/diseño/html/js/plugins/menu.js",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/dash.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/dashboard.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/js/plugins/morris/morris.min.js",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/css/sb-admin.css",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/css/styleguide.css",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/styleguide.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/tipografia.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/blank-page.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/bootstrap-elements.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/bootstrap-grid.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/charts.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/forms.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/css/plugins/morris.css",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/js/plugins/morris/morris.js",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/tables.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/a-Entregas/bquate-dashboards/assets/plugins/summernote/js/summernote.min.js",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/a-Entregas/bquate-dashboards/assets/plugins/summernote/js/summernote.js",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/a-Entregas/bquate-dashboards/assets/css/style.css",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/a-Entregas/bquate-dashboards/assets/css/bquate.css",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/a-Entregas/bquate-dashboards/f-distribucion.html",
+		"/Users/sebastianosses/Downloads/html-cefi/css/cefi.css",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/css/sb-admin2.css",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/css/bootstrap.css",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/css/bootstrap.min.css",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/js/sidemenu.js",
+		"/Users/sebastianosses/Downloads/bootstrap-3.3.5-dist/index.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Pacífico Seguros/UX Portal Corredores/diseño/html/css/sidemenu.css",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/a-Entregas/bquate-dashboards/f-canales.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/a-Entregas/bquate-dashboards/f-canciones.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/a-Entregas/bquate-dashboards/f-codigos.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/a-Entregas/bquate-dashboards/f-monetize.html",
+		"/Users/sebastianosses/Downloads/bquate-site/p4.html",
+		"/Users/sebastianosses/Downloads/bquate-site/p5.html",
+		"/Users/sebastianosses/Downloads/bquate-site/p3.html",
+		"/Users/sebastianosses/Downloads/bquate-site/p2.html",
+		"/Users/sebastianosses/Downloads/bquate-site/p3 copy.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/bundle/bquate-site/p2.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/bundle/bquate-site/pages/css/pages.css",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/bundle/bquate-site/p1.html",
+		"/private/var/folders/p_/tnqjtvj947b14fj9cyl6rdg40000gn/T/fz3temp-1/style.css",
+		"/Applications/Popcorn-Time.app/Contents/Resources/app.nw/src/app/settings.js",
+		"/Users/sebastianosses/Desktop/Varios/traspaso a hostgator/sophiatheocean/web/index.html",
+		"/Users/sebastianosses/Desktop/untitled folder/Polar_files/index.html",
+		"/Users/sebastianosses/Dropbox (Personal)/cuartel/cuartel/cuartel/wp-config.php",
+		"/Users/sebastianosses/Desktop/untitled folder/Polar.html",
+		"/Users/sebastianosses/Desktop/Varios/traspaso a hostgator/ixda/wp-content/plugins/jetpack/class.jetpack-user-agent.php",
+		"/private/var/folders/p_/tnqjtvj947b14fj9cyl6rdg40000gn/T/fz3temp-1/RoyalSliderAdmin.php",
+		"/Users/sebastianosses/Desktop/Varios/traspaso a hostgator/carol/wp-config.php",
+		"/private/var/folders/p_/tnqjtvj947b14fj9cyl6rdg40000gn/T/fz3temp-1/royalslider.php",
+		"/Users/sebastianosses/Desktop/focoestudio2015/story162/story162/fe/style.css",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/bundle/bquate-site/assets/css/style.css",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/bundle/bquate-site/panel.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/bundle/bquate-site/index.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/bundle/bquate-site/assets/css/bquate.css",
+		"/private/var/folders/p_/tnqjtvj947b14fj9cyl6rdg40000gn/T/fz3temp-1/footer.php",
+		"/private/var/folders/p_/tnqjtvj947b14fj9cyl6rdg40000gn/T/fz3temp-1/wp-config.php",
+		"/Users/sebastianosses/Downloads/startbootstrap-agency-1.0.4/css/agency.css",
+		"/Users/sebastianosses/Downloads/startbootstrap-agency-1.0.4/index.html",
+		"/Users/sebastianosses/Desktop/web/wp-config.php",
+		"/Users/sebastianosses/Desktop/southresources/southresources.sql",
+		"/Users/sebastianosses/Desktop/southresources/wp-config.php",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/bundle/bquate-site/f2.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/bundle/bquate-site/f4.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/bundle/bquate-site/f3.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/bundle/bquate-site/f1.html",
+		"/Users/sebastianosses/Dropbox (Personal)/A-DIGITAL PROJECTS/A-CONTINUUM PERU/a-Bquate/bundle/bquate-site/f5.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"registrate gratis",
+			"modal.fade",
+			"modal.fade.",
+			"modal.fade.in",
+			"modal.fade ",
+			"modal.fade",
+			".modal ",
+			".modal",
+			"fade",
+			"gesti",
+			"play",
+			"bg-",
+			"bg-master",
+			"spotify",
+			"video.gif",
+			"video",
+			" <li>\n                <a href=\"monetiza.html\">Características </a>\n              </li>",
+			"            <li class=\"m-b-5 no-padding\"><a href=\"monetiza.html\" class=\"link text-white\">Monetiza</a></li>\n",
+			" <li>\n                <a href=\"monetiza.html\">Características </a>\n              </li>",
+			"ingresa",
+			"itunes",
+			"min-width: 1200px",
+			"max-width: 1200px",
+			"1200",
+			"todos los siniestros",
+			"Póliza",
+			"poliza",
+			"_list",
+			"list",
+			"cartera",
+			"coupon",
+			"cupon",
+			"pending_amount",
+			"FOLA - Seguro de salud practicante",
+			"pps",
+			"cog",
+			"form",
+			"tienes",
+			"upc",
+			"footer",
+			".pill",
+			"ft6",
+			"susana",
+			"button",
+			"grey",
+			"small",
+			"blanco",
+			"texto-",
+			"negro",
+			"oscuro",
+			"claro",
+			"amarillo",
+			"rojo",
+			"gris",
+			"verde",
+			"azul",
+			"naranja",
+			"quote",
+			"blockquote",
+			"quote",
+			"%i.fa.fa-fw.fa-calendar\n              10 de Octubre",
+			"%i.fa.fa-calendar.fa-fw \n                10 de Octubre",
+			"page-w",
+			"trámite",
+			"tablero",
+			"nav-brand",
+			"img-",
+			"panel-new",
+			"panel",
+			"Publicado el ",
+			"mariategui",
+			"ver det<i class=\"fa fa-fw fa-power-off\"></i>",
+			"ass=\"col-lg-4 col-sm-4 ft-article\">\n                        <di",
+			"fa ",
+			"SB Admin - Bootstrap Admin Template",
+			"<link href=\"css/sb-admin.css\" rel=\"stylesheet\">",
+			"#7AB57A",
+			"#7EBADA",
+			"<a href=\"tipografia.html\"><i class=\"fa fa-fw fa-font\"></i> Tipografía</a>",
+			"<a href=\"documentos.html\"><i class=\"fa fa-fw fa-file-text\"></i> Manuales</a>",
+			"ff9c00",
+			"FF6319",
+			"botones",
+			"fa ",
+			"fa",
+			";\n",
+			"ASEGURADO",
+			"asegurado",
+			"cliente",
+			"share",
+			"2a223b",
+			"57389e",
+			"</strong></h5>",
+			"<h5><strong>",
+			"guia de ",
+			"botones",
+			"#8147C8",
+			"NAV",
+			"dashboard",
+			"box",
+			"dropdown",
+			"@media",
+			"menusuperior",
+			"225",
+			"page-wra",
+			"john",
+			"charts",
+			"mis codigos",
+			"collapse",
+			"Nuevo",
+			"nuevo canal",
+			"inicio",
+			"monetizacion",
+			"reproducciones",
+			"slide",
+			"    <li><i class=\"fa fa-chevron-right\"></i></li>",
+			"fa ",
+			"fi",
+			"cons",
+			"btn btn-xs sidebar-slide-toggle btn-link m-l-20",
+			"socail",
+			"btn-link icon-set menu-hambuger-plus m-l-20 sm-no-margin hidden-sm hidden-xs",
+			"quickview-wrapper open",
+			"hello there",
+			"finger",
+			"API",
+			"yts",
+			"http://hotdmedia.com/host/dejavu/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"regístrate gratis",
+			" <li>\n                <a href=\"monetiza.html\">Monetiza </a>\n              </li>",
+			"            <li class=\"m-b-5 no-padding\"><a href=\"monetiza.html\" class=\"link text-white\">Monetiza</a></li>\n",
+			"gray",
+			"white",
+			"text-",
+			"black",
+			"-dark",
+			"-light",
+			"yellow",
+			"red",
+			"grey",
+			"green",
+			"blue",
+			"orange",
+			"Publicado el 10 de octubre, 2015",
+			"<i class=\"fa fa-fw fa-calendar\"></i> ",
+			"Portal Corredores - Pacífico Seguros",
+			"<link href=\"css/styles.css\" rel=\"stylesheet\">",
+			"#97C7E0",
+			"<a href=\"tipografias.html\"><i class=\"fa fa-fw fa-font\"></i> Tipografía</a>",
+			"<a href=\"manuales.html\"><i class=\"fa fa-fw fa-file-text\"></i> Manuales</a>",
+			"db4903",
+			"00a021",
+			"0075B0",
+			"0099CC",
+			"</strong></h6>",
+			"<h6><strong>",
+			"",
+			"img/",
+			"edit_posts",
+			"Sebastián Ossés",
+			"http://cristobalorozco.com/",
+			"#A8B025",
+			"Open Sans",
+			"Lato",
+			"Calibri",
+			"btn-success btn-cons btn-animated",
+			" ",
+			"<meta charset=\"utf-8\">\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+			"img/",
+			" js/",
+			" ",
+			"css/",
+			"/js/",
+			"<div class=\"pagination\">\n                <ul>\n                  <li class=\"previous\"><a class=\"fui-arrow-left\" href=\"#fakelink\"></a></li>\n                  <li class=\"active\"><a href=\"#fakelink\">1</a></li>\n                  <li><a href=\"#fakelink\">2</a></li>\n                  <li><a href=\"#fakelink\">3</a></li>\n                  <li><a href=\"#fakelink\">4</a></li>\n                 \n                  <li class=\"next\"><a class=\"fui-arrow-right\" href=\"#fakelink\"></a></li>\n                </ul>\n              </div>",
+			"<!-- <li><a href=\"servicios.html\">Nuestros servicios</a></li> -->",
+			"<li><a href=\"capacitate.html\">Capacítate</a></li>",
+			"<li><a href=\"acercadelcefi.html\">Acerca de</a></li>",
+			"<li><a href=\"noticias.html\">Noticias</a></li><li><a href=\"diccionario.html\">Diccionario Financiero</a></li>",
+			"<li><a href=\"iniciativas-enelmundo.html\">En el Mundo</a></li>",
+			"<li><a href=\"iniciativas-cefi.html\">Del Cefi</a></li>",
+			"<li><a href=\"iniciativas-cefi\">Del Cefi</a></li>",
+			"      ",
+			"<li><a href=\"iniciativas-cefi.html\">Del Cefi</a></li>",
+			"css",
+			"class=\"img-rounded img-responsive\" />",
+			"<span class=\"date\">",
+			"</span>",
+			"</div>",
+			"<div class=\"date\">",
+			"Categoría 5",
+			"Categoría 4",
+			"Categoría 3",
+			"Categoría 2",
+			"Categoría 1",
+			"#",
+			"main-table",
+			"images/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "new-front/pages/css/pages.css",
+					"settings":
+					{
+						"buffer_size": 201649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97639,
+								97639
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 77639.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "new-front/planes.html",
+					"settings":
+					{
+						"buffer_size": 27572,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9228,
+								9228
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3564.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "new-front/terminos.html",
+					"settings":
+					{
+						"buffer_size": 25536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4229,
+								4229
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "new-front/soporte.html",
+					"settings":
+					{
+						"buffer_size": 28362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4229,
+								4229
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1216.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "new-front/recursos.html",
+					"settings":
+					{
+						"buffer_size": 16932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4229,
+								4229
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1274.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "new-front/nosotros.html",
+					"settings":
+					{
+						"buffer_size": 33092,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4233,
+								4233
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "new-front/monetiza.html",
+					"settings":
+					{
+						"buffer_size": 25557,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12186,
+								12206
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4829.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "new-front/index.html",
+					"settings":
+					{
+						"buffer_size": 58867,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40613,
+								40613
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 17928.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true
+}

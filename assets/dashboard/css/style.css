@@ -1,0 +1,43 @@
+/*
+
+* Override Pages default styles or create your own styles here
+
+*/
+
+
+.mapplic-tooltip::before {
+  color: #626262;
+  content: "Ubicación";
+  font-size: 12px;
+  line-height: normal;
+  margin: 0;
+  opacity: 0.7;
+}
+
+.mapplic-tooltip-title {
+  display: block;
+  font-size:16px !important;
+  line-height:18px !important;
+  margin-bottom:5px !important;
+}
+
+.page-sidebar a.ignore {color:#788195 !important;cursor:default;}
+
+.date-select {font-size:15px;}
+.chart svg, .chart2 svg { height:300px; }
+.evolucion svg { height:350px; }
+
+.btn-gplus {color:#fff;background-color:#dd4b39;border:0 none;text-align: left;margin-bottom:6px;width:300px;}
+.btn-gplus:before {content:"";font-size:30px;font-family: 'FontAwesome';border-right:solid 1px #bb3f30;margin:-10px 12px -10px 0;padding:2px 7px 0 0;display:block;float:left;}
+.btn-gplus:hover {background-color:#e74b37;color:#fff;background-image: linear-gradient(#b93c2c,#b93c2c);background-position: left bottom;background-repeat:repeat-x;background-size: 100px 3px;}
+
+.btn-facebook .caption {display: none;}
+.btn-facebook {color:#fff;background-color:#4b68b9;border:0 none;text-align: left;}
+.btn-facebook:before {content:"";font-size:30px;font-family: 'FontAwesome';border-right:solid 1px #2b438a;margin:-10px 12px -10px 0;padding:2px 7px 0 0;display:block;float:left;width:36px;text-align: center;}
+.btn-facebook:hover {background-color:#405ba8;color:#fff;background-image: linear-gradient(#3b55a0,#3b55a0);background-position: left bottom;background-repeat:repeat-x;background-size: 100px 3px;}
+
+.tx-detail {display: none;}
+
+.header a.btn {color:#fff;}
+.btn-plan {margin-top:-2px;}
+.page-sidebar .sidebar-menu .menu-items li > a.separador {width:90%;}
