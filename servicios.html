@@ -43,6 +43,7 @@
               <img src="assets/images/logo_white.png" width="200" height="53" data-src-retina="assets/images/logo_white_2x.png" class="logo" alt="">
               <img src="assets/images/logo_white.png" width="200" height="53" data-src-retina="assets/images/logo_white_2x.png" class="alt" alt="">
             </a>
+
           </div>
         </div>
         <!-- BEGIN HEADER TOGGLE FOR MOBILE & TABLET -->
@@ -84,16 +85,18 @@
               </li>
               
              
-               <li class="hidden-md"><a href="soporte.html" >Soporte</a></li>
+               <!--<li class="hidden-md"><a href="soporte.html" >Soporte</a></li>
                 <li class="hidden-md"><a href="terminos.html">Términos & condiciones</a></li>
-                <li class="hidden-md"><a href="recursos.html">Recursos gratuitos</a></li>
+                <li class="hidden-md"><a href="recursos.html">Recursos gratuitos</a></li>-->
              
               
               
               
+              <li>
+                <a data-target="#modalSlideLeft" data-toggle="modal" href="#">Ingresa <i class="fa fa-lock"></i></a>
+              </li>              
               <li class="little-btn">
-                <a  data-target="#modalSlideLeft" data-toggle="modal" class="btn btn-sm btn-primary btn-cons btn-rounded" href="#">Regístrate o Ingresa</a>
-
+                <a  data-target="#modalSlideLeft" data-toggle="modal" class="btn btn-sm btn-primary btn-cons btn-rounded" href="#">Registrate!</a>
               </li>
             </ul>
             <a href="#" class="hide search-toggle hidden-xs hidden-sm" data-toggle="search"><i class="fs-14 pg-search"></i></a>
@@ -419,3 +422,31 @@
   <script type="text/javascript" src="assets/js/custom.js"></script>
   <!-- END PAGES LIB -->
   </html>
+  <!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+    window.$zopim || (function (d, s) {
+        var z = $zopim = function (c) {
+            z._.push(c)
+        }, $ = z.s =
+                d.createElement(s), e = d.getElementsByTagName(s)[0];
+        z.set = function (o) {
+            z.set.
+                    _.push(o)
+        };
+        z._ = [];
+        z.set._ = [];
+        $.async = !0;
+        $.setAttribute('charset', 'utf-8');
+        $.src = '//v2.zopim.com/?27WbMwLFeJOE0R2iH15Dy83T47lhTax7';
+        z.t = +new Date;
+        $.
+                type = 'text/javascript';
+        e.parentNode.insertBefore($, e)
+    })(document, 'script');
+
+    $zopim(function() {
+        $zopim.livechat.setName('{{(!empty($user->nombre))?$user->nombre:""}}');
+        $zopim.livechat.setEmail('{{(!empty($user->email))?$user->email:""}}');
+      });
+</script>
+<!--End of Zopim Live Chat Script-->

@@ -20,6 +20,7 @@
     <link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="assets/plugins/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css" />
     <link href="assets/plugins/swiper/css/swiper.css" rel="stylesheet" type="text/css" media="screen" />
+    <link href="assets/plugins/owl-carousel2/assets/owl.carousel.css" rel="stylesheet" type="text/css" media="screen" />
     <!-- END PLUGINS -->
     <!-- BEGIN PAGES CSS -->
     <link class="main-stylesheet" href="pages/css/pages.css" rel="stylesheet" type="text/css" />
@@ -41,9 +42,9 @@
           <div class="header-inner">
             <!-- BEGIN LOGO -->
             <a href="index.html">
-            <img src="assets/images/logo_white.png" width="200" height="53" data-src-retina="assets/images/logo_white_2x.png" class="logo" alt="">
-            <img src="assets/images/logo_white.png" width="200" height="53" data-src-retina="assets/images/logo_white_2x.png" class="alt" alt="">
-          </a>
+              <img src="assets/images/logo_white.png" width="200" height="53" data-src-retina="assets/images/logo_white_2x.png" class="logo" alt="">
+              <img src="assets/images/logo_white.png" width="200" height="53" data-src-retina="assets/images/logo_white_2x.png" class="alt" alt="">
+            </a>
           </div>
         </div>
         <!-- BEGIN HEADER TOGGLE FOR MOBILE & TABLET -->
@@ -84,16 +85,18 @@
                 <a href="nosotros.html">Nosotros </a>
               </li>
               
-               <li class="hidden-md"><a href="soporte.html" >Soporte</a></li>
+               <!--<li class="hidden-md"><a href="soporte.html" >Soporte</a></li>
                 <li class="hidden-md"><a href="terminos.html">Términos & condiciones</a></li>
-                <li class="hidden-md"><a href="recursos.html">Recursos gratuitos</a></li>
+                <li class="hidden-md"><a href="recursos.html">Recursos gratuitos</a></li>-->
              
               
               
               
+              <li>
+                <a data-target="#modalSlideLeft" data-toggle="modal" href="#">Ingresa <i class="fa fa-lock"></i></a>
+              </li>              
               <li class="little-btn">
-                <a  data-target="#modalSlideLeft" data-toggle="modal" class="btn btn-sm btn-primary btn-cons btn-rounded" href="#">Regístrate o Ingresa</a>
-
+                <a  data-target="#modalSlideLeft" data-toggle="modal" class="btn btn-sm btn-primary btn-cons btn-rounded" href="#">Registrate!</a>
               </li>
             </ul>
             <a href="#" class="hide search-toggle hidden-xs hidden-sm" data-toggle="search"><i class="fs-14 pg-search"></i></a>
@@ -152,7 +155,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="bottom-right p-r-70 p-b-50 sm-p-r-20 sm-p-b-20">
+                <!--<div class="bottom-right p-r-70 p-b-50 sm-p-r-20 sm-p-b-20">
 
                   <h6 class="text-uppercase text-right m-r-10 semi-bold text-white muted">Nos apoya</h6>
                   <img class="partners" src="assets/images/partner-logos.png"><br> <br> 
@@ -160,7 +163,7 @@
             
 
             
-          </div>
+          </div>-->
           
                 <!-- END CONTENT -->
               </div>
@@ -372,66 +375,127 @@
 
           <!-- BEGIN PORTFOLIO SECTION -->
     <section class="">
-      <div class="gallery">
+      <div id="owl-demo" class="gallery owl-carousel">
+
         
 
 
         <!-- START GALLERY ITEM -->
-        <div class="gallery-item col-sm-3 col-xs-6 no-padding hover-zoom">
-          <div class="inner bottom-left bottom-right padding-30">
-            <h5 class="block-title text-white no-margin">Nova Lima</h5>
-            <h6 class="block-title fs-11 hint-text text-white m-t-5 m-b-0">USA</h6>
-          </div>
+        <div class="item hover-zoom">
           <div class="ar-1-1">
             <!-- START PREVIEW -->
-            <div data-pages-bg-image="assets/images/gallery_2.jpg" data-bg-overlay="black" data-overlay-opacity="0.4">
+            <div data-pages-bg-image="assets/images/franda.png" data-bg-overlay="black" data-overlay-opacity="0.4">
+              <div class="inner bottom-left bottom-right padding-30">
+                <h5 class="block-title text-white no-margin">Franda</h5>
+
+              </div>
             </div>
             <!-- END PREVIEW -->
           </div>
+          
+          
         </div>
         <!-- END GALLERY ITEM -->
 
-<!-- START GALLERY ITEM -->
-        <div class="gallery-item col-sm-3 col-xs-6 no-padding hover-zoom">
-          <div class="inner bottom-left bottom-right padding-30">
-            <h5 class="block-title text-white no-margin">Desiré Mandrile</h5>
-            <h6 class="block-title fs-11 hint-text text-white m-t-5 m-b-0">Argentina</h6>
-          </div>
+        <!-- START GALLERY ITEM -->
+        <div class="item hover-zoom">
           <div class="ar-1-1">
             <!-- START PREVIEW -->
-            <div data-pages-bg-image="assets/images/gallery_6.jpg" data-bg-overlay="black" data-overlay-opacity="0.4">
+            <div data-pages-bg-image="assets/images/mox.jpg" data-bg-overlay="black" data-overlay-opacity="0.4">
+              <div class="inner bottom-left bottom-right padding-30">
+                <h5 class="block-title text-white no-margin">Mox</h5>
+
+              </div>
             </div>
+            
             <!-- END PREVIEW -->
           </div>
+          
+          
         </div>
         <!-- END GALLERY ITEM -->
 
 
         <!-- START GALLERY ITEM -->
-        <div class="gallery-item col-sm-3 col-xs-6 no-padding hover-zoom">
-          <div class="inner bottom-left bottom-right padding-30">
-            <h5 class="block-title text-white no-margin">Diego Dibós</h5>
-            <h6 class="block-title fs-11 hint-text text-white m-t-5 m-b-0">Perú</h6>
-          </div>
+        <div class="item hover-zoom">
+          
           <div class="ar-1-1">
             <!-- START PREVIEW -->
-            <div data-pages-bg-image="assets/images/gallery_4.jpg" data-bg-overlay="black" data-overlay-opacity="0.4">
+            <div data-pages-bg-image="assets/images/cynthia_la_maquilladora.png" data-bg-overlay="black" data-overlay-opacity="0.4">
+              <div class="inner bottom-left bottom-right padding-30">
+                <h5 class="block-title text-white no-margin">Cynthia La Maquilladora</h5>
+
+              </div>
             </div>
+            
             <!-- END PREVIEW -->
           </div>
         </div>
         <!-- END GALLERY ITEM -->
 
         <!-- START GALLERY ITEM -->
-        <div class="gallery-item col-sm-3 col-xs-6 no-padding hover-zoom">
-          <div class="inner bottom-left bottom-right padding-30">
-            <h5 class="block-title text-white no-margin">Ana Carina</h5>
-            <h6 class="block-title fs-11 hint-text text-white m-t-5 m-b-0">Perú</h6>
-          </div>
+        <div class="item hover-zoom">
+          
           <div class="ar-1-1">
             <!-- START PREVIEW -->
-            <div data-pages-bg-image="assets/images/gallery_3.jpg" data-bg-overlay="black" data-overlay-opacity="0.4">
+            <div data-pages-bg-image="assets/images/latiger.jpg" data-bg-overlay="black" data-overlay-opacity="0.4">
+              <div class="inner bottom-left bottom-right padding-30">
+                <h5 class="block-title text-white no-margin">La Tigresa del Oriente</h5>
+
+              </div>
             </div>
+            
+            <!-- END PREVIEW -->
+          </div>
+        </div>
+        <!-- END GALLERY ITEM -->
+        
+        <!-- START GALLERY ITEM -->
+        <div class="item hover-zoom">
+          
+          <div class="ar-1-1">
+            <!-- START PREVIEW -->
+            <div data-pages-bg-image="assets/images/ezra.png" data-bg-overlay="black" data-overlay-opacity="0.4">
+              <div class="inner bottom-left bottom-right padding-30">
+                <h5 class="block-title text-white no-margin">Ezra</h5>
+
+              </div>
+            </div>
+            
+            <!-- END PREVIEW -->
+          </div>
+        </div>
+        <!-- END GALLERY ITEM -->
+
+        <!-- START GALLERY ITEM -->
+        <div class="item hover-zoom">
+          
+          <div class="ar-1-1">
+            <!-- START PREVIEW -->
+            <div data-pages-bg-image="assets/images/ariana_bolo_arce.jpg" data-bg-overlay="black" data-overlay-opacity="0.4">
+              <div class="inner bottom-left bottom-right padding-30">
+                <h5 class="block-title text-white no-margin">Ariana Bolo Arce</h5>
+
+              </div>
+            </div>
+            
+            <!-- END PREVIEW -->
+          </div>
+        </div>
+        <!-- END GALLERY ITEM -->
+
+        <!-- START GALLERY ITEM -->
+        <div class="item hover-zoom">
+          
+          <div class="ar-1-1">
+            <!-- START PREVIEW -->
+            <div data-pages-bg-image="assets/images/henry_spencer.jpg" data-bg-overlay="black" data-overlay-opacity="0.4">
+              <div class="inner bottom-left bottom-right padding-30">
+                <h5 class="block-title text-white no-margin">Ana Carina</h5>
+                <h6 class="block-title fs-11 hint-text text-white m-t-5 m-b-0">Perú</h6>
+              </div>
+            </div>
+            
             <!-- END PREVIEW -->
           </div>
         </div>
@@ -1057,6 +1121,7 @@ a la plataforma internacional.</p>
     <script type="text/javascript" src="assets/plugins/jquery/jquery-1.11.1.min.js"></script>
     <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="assets/plugins/vide/jquery.vide.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/owl-carousel2/owl.carousel.js"></script>
     <!-- BEGIN SWIPER DEPENDENCIES -->
     <script type="text/javascript" src="assets/plugins/swiper/js/swiper.jquery.min.js"></script>
     <script type="text/javascript" src="assets/plugins/velocity/velocity.min.js"></script>
@@ -1072,3 +1137,32 @@ a la plataforma internacional.</p>
     <script type="text/javascript" src="assets/js/custom.js"></script>
     <!-- END PAGES LIB -->
 </html>
+
+<!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+    window.$zopim || (function (d, s) {
+        var z = $zopim = function (c) {
+            z._.push(c)
+        }, $ = z.s =
+                d.createElement(s), e = d.getElementsByTagName(s)[0];
+        z.set = function (o) {
+            z.set.
+                    _.push(o)
+        };
+        z._ = [];
+        z.set._ = [];
+        $.async = !0;
+        $.setAttribute('charset', 'utf-8');
+        $.src = '//v2.zopim.com/?27WbMwLFeJOE0R2iH15Dy83T47lhTax7';
+        z.t = +new Date;
+        $.
+                type = 'text/javascript';
+        e.parentNode.insertBefore($, e)
+    })(document, 'script');
+
+    $zopim(function() {
+        $zopim.livechat.setName('{{(!empty($user->nombre))?$user->nombre:""}}');
+        $zopim.livechat.setEmail('{{(!empty($user->email))?$user->email:""}}');
+      });
+</script>
+<!--End of Zopim Live Chat Script-->
