@@ -1,6 +1,21 @@
-.btn-black{
-  background-color: black;
-  color: white;
+.plan_top{
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+.plan_bottom{
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+.overlay {
+   background:transparent; 
+   position:relative; 
+   width:100%;
+   height:300px; /* your iframe height */
+   top:300px;  /* your iframe height */
+   margin-top:-300px;  /* your iframe height */
+}
+.sellos{
+  border-radius: 20px;
 }
 #bquate_social_index .fa {
   font-size: 30px;
