@@ -1,3 +1,8 @@
+.categoria{
+  color:black!important;
+  border-bottom: 0px!important;
+  margin-top: 40px;
+}
 .plan_top{
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
@@ -50,6 +55,7 @@
 }
 .header .menu > li > a {
 	text-transform: none!important;
+  font-size: 13px!important;
 }
 .owl-prev, .owl-next {
     position: absolute;
